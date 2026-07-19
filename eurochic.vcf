@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Kathy Tailoring&Alterations
+N:Tailoring&Alterations;Kathy;;;
+item1.EMAIL;TYPE=INTERNET:eurochicdallas@gmail.com
+item1.X-ABLabel:Tailoring
+item2.TEL:(469) 333-1117
+item2.X-ABLabel:Tailoring
+ORG:Euro Chic
+TITLE:Owner
+item3.URL:https\://eurochicdallas.wordpress.com/
+item3.X-ABLabel:Tailoring
+CATEGORIES:myContacts,starred
+END:VCARD
